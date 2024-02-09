@@ -13,7 +13,7 @@ This is particularly useful if you have a series of instructional or educational
 ## Prerequisites
 To use this script, you need:
 - Python 3.x installed on your system.
-- Videos must be named in a way that allows proper sorting (e.g., numerically or alphabetically).
+- Videos must be named in a way that allows proper sorting (e.g., numerically or alphabetically(1.Hello-World.mp4, 2.UserInput.mp4)).
 
 ## Usage
 1. Clone or download this repository to your local machine.
